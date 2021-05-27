@@ -6,5 +6,5 @@
 
 # Curso
 
-- Estou cursando Desenvlvimento de Sistemas
+- Estou cursando Desenvolvimento de Sistemas
 - Firjan SENAI
